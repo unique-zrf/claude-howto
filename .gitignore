@@ -45,6 +45,7 @@ yarn-error.log*
 *.temp
 # Keep .claude/ clean for hand-on section — except project skills
 .claude/*
+!.claude/commands/
 !.claude/skills/
 .claude/skills/*
 !.claude/skills/self-assessment/
